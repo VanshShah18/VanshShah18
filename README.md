@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=1500&pause=800&color=00FF88&background=0D111700&center=true&width=400&lines=%3C%2FVANSH%3E;%3C%2FSHAH%3E;VANSH+SHAH" alt="VANSH SHAH" />
 </div>
@@ -9,8 +10,67 @@
 
 
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VanshShah18&color=58A6FF&style=flat-square" />
+</div>
+---
 
 ---
+
+## 🧑‍💻 About Me  
+
+```javascript
+const vansh = {
+  pronouns: "he/him",
+  code: ["Java", "Python", "TypeScript"],
+  askMeAbout: ["web dev", "AI/ML", "music tech"],
+  technologies: {
+    frontend: ["React", "Next.js", "Tailwind"],
+    backend: ["Node.js", "Express", "Firebase"],
+    database: ["MongoDB", "PostgreSQL"],
+    devOps: ["AWS", "Docker", "GitHub Actions"],
+    misc: ["Arduino", "TensorFlow", "Spotify API"]
+  },
+  funFact: "I once fixed a bug in my dream 💻✨",
+  joke: "Why do Java devs wear glasses? Because they can't C#!"
+};
+```
+
+---
+
+## 🤖 Why I'm Different
+
+```
+git commit -m "Why I'm different"
+diff
++ 𝟏. 100% code coverage - No half-baked solutions  
++ 𝟐. TypeScript in my viens - Strictly typed humor  
++ 𝟑. AI whispher - I make ML models actually useful  
+! 𝟒. Bug warrior - I fight memory leaks before breakfast  
+# 𝟓. Coffee Powered - My IDE never sleeps
+```
+
+```sql
+/* When my code compiles on first try */
+UPDATE imposter_syndrome 
+SET confidence = 100 
+WHERE developer = 'Vansh';
+
+/* My reaction to legacy code */
+SELECT '🤯' AS reaction 
+FROM undocumented_spaghetti_code 
+WHERE WTF > 9000;
+
+/* How I solve tough bugs */
+WITH determination AS (
+  SELECT caffeine, patience 
+  FROM my_brain 
+  WHERE problem = 'critical_bug'
+)
+INSERT INTO solutions 
+VALUES ('Eureka!', CURRENT_TIMESTAMP);
+```
+
 
 ## 🛠️ Tech Stack
 
