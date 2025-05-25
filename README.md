@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshshah0018)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vanshxh18)  <!-- Updated LeetCode URL -->
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vanshshah)
+
 
 </div>
 
@@ -90,4 +90,4 @@
 ```text
 💻 Currently coding: Next.js project
 🌱 Learning: Advanced System Design
-📫 Reach me: shahvanshavp@example.com
+📫 Reach me: shahvanshavp@gmail.com
