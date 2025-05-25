@@ -1,7 +1,10 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=1500&pause=800&color=00FF88&background=0D111700&center=true&width=400&lines=%3C%2FVANSH%3E;%3C%2FSHAH%3E;VANSH+SHAH" alt="VANSH SHAH" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=00FF88&background=0D111700&center=true&width=500&lines=%3C%2FVANSH%3E;%3C%2FSHAH%3E;VANSH+SHAH" 
+    alt="VANSH SHAH"
+  />
 </div>
+
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshshah0018)
@@ -10,45 +13,11 @@
 
 
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VanshShah18&color=58A6FF&style=flat-square" />
-</div>
----
+
 
 ---
 
-## 🧑‍💻 About Me  
 
-```javascript
-const vansh = {
-  pronouns: "he/him",
-  code: ["Java", "Python", "TypeScript"],
-  askMeAbout: ["web dev", "AI/ML", "music tech"],
-  technologies: {
-    frontend: ["React", "Next.js", "Tailwind"],
-    backend: ["Node.js", "Express", "Firebase"],
-    database: ["MongoDB", "PostgreSQL"],
-    devOps: ["AWS", "Docker", "GitHub Actions"],
-    misc: ["Arduino", "TensorFlow", "Spotify API"]
-  },
-  funFact: "I once fixed a bug in my dream 💻✨",
-  joke: "Why do Java devs wear glasses? Because they can't C#!"
-};
-```
-
----
-
-## 🤖 Why I'm Different
-
-```
-git commit -m "Why I'm different"
-diff
-+ 𝟏. 100% code coverage - No half-baked solutions  
-+ 𝟐. TypeScript in my viens - Strictly typed humor  
-+ 𝟑. AI whispher - I make ML models actually useful  
-! 𝟒. Bug warrior - I fight memory leaks before breakfast  
-# 𝟓. Coffee Powered - My IDE never sleeps
-```
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -128,3 +97,5 @@ diff
 💻 Currently coding: Next.js project
 🌱 Learning: Advanced System Design
 📫 Reach me: shahvanshavp@gmail.com
+
+so this is my final code hows it
