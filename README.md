@@ -1,12 +1,6 @@
-<p align="center">
-  <!-- Instant static name display with perfect sizing -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=0&pause=0&color=58A6FF&background=0D111700&center=true&width=420&lines=VANSH+SHAH" alt="VANSH SHAH" />
-</p>
-
-<h1 align="center">
-  <!-- Subtitle typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;VIT+Vellore+Student" alt="Typing animation" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=1500&pause=800&color=00FF88&background=0D111700&center=true&width=400&lines=%3C%2FVANSH%3E;%3C%2FSHAH%3E;VANSH+SHAH" alt="VANSH SHAH" />
+</div>
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshshah0018)
@@ -96,4 +90,4 @@
 ```text
 💻 Currently coding: Next.js project
 🌱 Learning: Advanced System Design
-📫 Reach me: vanshshah@example.com
+📫 Reach me: shahvanshavp@example.com
