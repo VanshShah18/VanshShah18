@@ -49,29 +49,6 @@ diff
 ! 𝟒. Bug warrior - I fight memory leaks before breakfast  
 # 𝟓. Coffee Powered - My IDE never sleeps
 ```
-
-```sql
-/* When my code compiles on first try */
-UPDATE imposter_syndrome 
-SET confidence = 100 
-WHERE developer = 'Vansh';
-
-/* My reaction to legacy code */
-SELECT '🤯' AS reaction 
-FROM undocumented_spaghetti_code 
-WHERE WTF > 9000;
-
-/* How I solve tough bugs */
-WITH determination AS (
-  SELECT caffeine, patience 
-  FROM my_brain 
-  WHERE problem = 'critical_bug'
-)
-INSERT INTO solutions 
-VALUES ('Eureka!', CURRENT_TIMESTAMP);
-```
-
-
 ## 🛠️ Tech Stack
 
 <p align="center">
